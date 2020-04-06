@@ -1,0 +1,20 @@
+Data Set Information:
+
+This dataset was derived from geospatial data from two sources: 
+1) Landsat time-series satellite imagery from the years 2014-2015, and  
+2) crowdsourced georeferenced polygons with land cover labels obtained from OpenStreetMap. 
+
+The crowdsourced polygons cover only a small part of the image area, and are used used to extract training data from the image for classifying the rest of the image. The main challenge with the dataset is that both the imagery and the crowdsourced data contain noise (due to cloud cover in the images and innaccurate labeling/digitizing of polygons).
+
+Files in zip folder
+-The 'training.csv' file contains the training data for classification. Do not use this file to evaluate classification accuracy because it contains noise (many class labeling errors).
+-The 'testing.csv' file contains testing data to evaluate the classification accuracy. This file does not contain any class labeling errors. 
+
+Attribute Information:
+
+class: The land cover class (impervious, farm, forest, grass, orchard, water) __[note: this is the target variable to classify]__.  
+
+max_ndvi: the maximum NDVI (normalized difference vegetation index) value derived from the time-series of satellite images.
+20150720_N - 20140101_N : NDVI values extracted from satellite images acquired between January 2014 and July 2015, in reverse chronological order (dates given in the format yyyymmdd).
+
+[Data Source](https://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping#)
