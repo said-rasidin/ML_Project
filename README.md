@@ -1,2 +1,2 @@
-# ML_Project
-ML Application for daily basis data or Geophysics
+# Machine Learning Project
+ML project for daily basis data or Geophysics 
