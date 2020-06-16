@@ -9,8 +9,8 @@ Language and Frameworks:
 The dataset is from Kaggle contains 961 files
 [Mineral Identification](https://www.kaggle.com/asiedubrempong/minerals-identification-dataset)
 
-The datasets has 7 labels :
-1 **muscovite**: is a hydrated phyllosilicate mineral of aluminium and potassium with formula KAl2(AlSi3O10)(F,OH)2, or (KF)2(Al2O3)3(SiO2)6(H2O).   
+The datasets has 7 labels :   
+1 **muscovite**: is a hydrated phyllosilicate mineral of aluminium and potassium with formula KAl2(AlSi3O10)(F,OH)2, or (KF)2(Al2O3)3(SiO2)6(H2O). ![Muscovite](https://upload.wikimedia.org/wikipedia/commons/2/26/Muscovite-Albite-122887.jpg)   
 2. **Muscovite** is the most common mica, found in granites, pegmatites, gneisses, and schists, and as a contact metamorphic rock or as a secondary mineral resulting from the alteration of topaz, feldspar, kyanite.    
 3. **chrysocolla**: is a hydrated copper phyllosilicate mineral with formula: Cu2−xAlx(H2−xSi2O5)(OH)4·nH2O (x<1)[1] or (Cu,Al)2H2Si2O5(OH)4·nH2O. Associated minerals are quartz, limonite, azurite, malachite, cuprite, and other secondary copper minerals.
 quartz: is a hard, crystalline mineral composed of silicon and oxygen atoms. Quartz is a defining constituent of granite and other felsic igneous rocks. It is very common in sedimentary rocks such as sandstone and shale. It is a common constituent of schist, gneiss, quartzite and other metamorphic rocks.   
