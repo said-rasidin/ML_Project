@@ -1,6 +1,6 @@
 # Mineral Classification
 
-This project about mineral calssification using Convolutional Neural Network in order calssify mineral image.
+This project about mineral classification using Convolutional Neural Network to extract mineral image features.
 
 Language and Frameworks:  
 1. Phyton  
