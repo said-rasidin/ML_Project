@@ -34,3 +34,5 @@ From this project I got two models:
 accuracy : 80% in test data
 2. VGG16 model and transfers its weight and train the classifier layer  
 accuracy : 96% in test data
+
+#### [MEDIUM](https://medium.com/@saidr567/mineral-klasifikasi-menggunakan-deep-learning-373cea77694b)
