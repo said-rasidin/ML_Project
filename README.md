@@ -3,7 +3,7 @@
 This is where I place my personal projects, there are several project that I have finished:
 
 ### 1. [Mineral Image Classification](https://github.com/said-rasidin/ML_Project/tree/master/Mineral_Image_Classification)   
-I classify 7 mineral classes and produce rebust model that can be used to classify minerals, I've try it using mineral images from google   
+I classify 7 mineral classes and produce rebust model that can be used to classify minerals, I've tried it using mineral images from google   
 
 ### 2. [Air Quality Data Exploration](https://github.com/said-rasidin/ML_Project/tree/master/Air_Quality)    
 Simple tabular data exploration, and build simple linear model to predict air quality index   
