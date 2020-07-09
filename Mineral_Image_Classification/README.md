@@ -1,8 +1,9 @@
 # Mineral Classification
 
-This project about mineral classification using Convolutional Neural Network to extract mineral image features.
+This project about mineral classification using Convolutional Neural Network to extract mineral image features.   
+#### [MEDIUM](https://medium.com/@saidr567/mineral-klasifikasi-menggunakan-deep-learning-373cea77694b)   
 
-![](https://github.com/said-rasidin/ML_Project/blob/master/Mineral_Image_Classification/Screenshot%20(65).png)
+![](https://github.com/said-rasidin/ML_Project/blob/master/Mineral_Image_Classification/Screenshot%20(65).png =250x)
 
 Language and Frameworks:  
 1. Phyton  
@@ -37,4 +38,4 @@ accuracy : 80% in test data
 2. VGG16 model and transfers its weight and train the classifier layer  
 accuracy : 96% in test data
 
-#### [MEDIUM](https://medium.com/@saidr567/mineral-klasifikasi-menggunakan-deep-learning-373cea77694b)
+
