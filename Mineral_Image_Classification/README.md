@@ -3,7 +3,8 @@
 This project about mineral classification using Convolutional Neural Network to extract mineral image features.   
 #### [MEDIUM](https://medium.com/@saidr567/mineral-klasifikasi-menggunakan-deep-learning-373cea77694b)   
 
-![](https://github.com/said-rasidin/ML_Project/blob/master/Mineral_Image_Classification/Screenshot%20(65).png =250x)
+<img src="https://github.com/said-rasidin/ML_Project/blob/master/Mineral_Image_Classification/Screenshot%20(65).png" width="640">
+
 
 Language and Frameworks:  
 1. Phyton  
