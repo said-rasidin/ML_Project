@@ -33,4 +33,6 @@ Simple tabular data exploration, and build simple linear model to predict air qu
 Build Deep Neural Network architecture to predict Housing Price and classifying Fashion MNIST datasets   
 
 ### 7. [Land Cover Classification from NDVI Value](https://github.com/said-rasidin/ML_Project/tree/master/land_cover_NDVI)
-Data Exploration and do some features selection to classify land cover base on its NDVI values   
+Data Exploration and do some features selection to classify land cover base on its NDVI values    
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="said-rasidin"><a class="LI-simple-link" href='https://id.linkedin.com/in/said-rasidin?trk=profile-badge'>Said Rasidin</a></div>
