@@ -2,6 +2,8 @@
 
 This project about mineral classification using Convolutional Neural Network to extract mineral image features.
 
+![](https://github.com/said-rasidin/ML_Project/blob/master/Mineral_Image_Classification/Screenshot%20(65).png)
+
 Language and Frameworks:  
 1. Phyton  
 2. Pytorch
