@@ -3,7 +3,7 @@
 This is where I place my personal projects, these are several projects that I have finished:
 
 ### 1. [Semantic Segmentation in Seismic Images](https://github.com/said-rasidin/ML_Project/tree/master/Seismic%20Segmentation)   
-This is semantic segmentation project to delineate salt badies in seismic images with U-Net Architecture with Resnet18 and Resnet34   
+This is semantic segmentation project to delineate salt bodies in seismic images with U-Net Architecture with Resnet18 and Resnet34   
 <p align="center">
 <img src="./Seismic%20Segmentation/predic1.png" width="480">   
 </p>   
