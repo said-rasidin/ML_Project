@@ -25,7 +25,7 @@ This project aimed to identify covid-19 from x-ray images as early detection to 
 ## Natural Language Processing   
 
 ### 4. [Sentiment Analysis COVID-19](https://github.com/said-rasidin/ML_Project/tree/master/Sentiment%20Analysis%20Covid-19)   
-This Project about classify sentiment from scarapped twitter tweet using private data   
+Classifying sentiment from twitter how people reaction in COVID-19 situation (private datasets)   
 <p align="center">
 <img src="./Sentiment%20Analysis%20Covid-19/words_cloud_neg.png" width="260"> 
 </p>    
