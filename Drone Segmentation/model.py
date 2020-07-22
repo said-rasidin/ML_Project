@@ -1,4 +1,4 @@
-pip install segmentation-models-pytorch
+#pip install segmentation-models-pytorch
 import segmentation_models_pytorch as smp
 from torchvision import models
 import torch.nn as nn
