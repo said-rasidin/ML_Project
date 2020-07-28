@@ -19,4 +19,8 @@ def U-Net(n_class=23, encoder_name='efficientnet-b3', activation=None):
                     encoder_depth=5, decoder_channels=[256, 128, 64, 32, 16])
     return model
 
+def FPN(n_class=23, encoder_name='efficientnet-b3', activation=None):
+    model = smp.FPN(encoder_name, encoder_weights='imagenet', classes=n_class, activation=activation)
+    return model
+
                         
