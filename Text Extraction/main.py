@@ -18,5 +18,5 @@ kesimpulan = summary(corpus, words_weights, n_kalimat_summary=5)
 
 save_kesimpulan(kesimpulan, 'kesimpulan.doc')
 
-print(f'\nKesimpulan:\n{kesimpulan}')
+print(f"\nKesimpulan:\n{kesimpulan}")
 print("Waktu: {:.3f} minutes".format((time.time()-since)/60))
